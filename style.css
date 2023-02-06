@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    padding: 0px;
+    margin:0px;
+
+}
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-box{
+
+    background-color: #1f2237;
+    height: 450px;
+
+
+}
+
+.navbar{
+     
+
+    font-size: 18px;
+}
+
+
+.logo{
+    
+    font-size: 24px;
+    color:#f9faf8;;   
+    position: relative;
+    top: 20px; 
+    padding: 10px;
+    left:150px;
+    
+}
+
+#header-logo{
+    color: #E5E7EB ;
+}
+
+ul{
+    position: relative;
+   left : 1100px;
+   gap: 15px;
+   display: flex;
+   color: #E5E7EB;
+}
+
+
+.main-text{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    position: absolute;
+    left: 150px;
+    top: 180px;
+
+    
+}
+
+#other-text{
+    font-size: 18px;
+    colour:#e5e7eb
+
+}
+
+.pic{
+    position: relative;
+    left: 1100px;
+    top: 50px;
+}
+
+#button{
+    position: relative;
+    left: 150px;
+    top: -10px;
+}
+
+.text{
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    top: 70px;
+    font-weight: 1000;
+    color: #1f2937;
+}
+
+.images{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    
+}
+
+
+ #picture{
+    
+    
+   margin: 40px;   
+    border-radius: 25px;
+    position: relative;
+    left: 500px;
+    top: px;
+    
+}
+
+.pic-text1{
+    font-size: 18px;
+    font-style: italic;
+    color: #1f2237;
+    text-align: left;
+    position: relative;
+    top: 350px;
+    left: 580px;
+}
+
+
+.pic-text2{
+    font-size: 18px;
+    font-style: italic;
+    color: #1f2237;
+    text-align: left;
+    position: relative;
+    top: 300px;
+    left: 900px;
+}
+
+
+.pic-text3{
+    font-size: 18px;
+    font-style: italic;
+    color: #1f2237;
+    text-align: left;
+    position: relative;
+    top: 255px;
+    left: 1250px;
+}
+
+
+.grey{
+
+  background-color: #e5e7eb;
+
+  margin: ;
+
+  height: 490px;
+  width:auto;
+
+}
+
+
+.grey-text{
+
+ color: #1f2937;
+ font-weight: lighter;
+ font-style: italic;
+ font-size: 30px;
+ margin: 100px;
+ padding: 100px;
+
+}
+
+#quote{
+
+    text-align: end;
+
+}
+
+.sign-up{
+
+
+    height: 150px;
+    background-color:#3882f6;
+    border-radius: 10px;
+    width: 1500px;
+    margin: 155px;
+}
+
+#blue-text{
+    font-weight: bolder;
+padding: 50px;
+text-align: center;
+position: relative;
+left: -280px;
+font-size: 22px;
+color: #E5E7EB;
+}
+
+#blue-text1{
+    font-weight: 100;
+text-align: center;
+position: relative;
+left: -100px;
+top: -45px;
+font-size: 18px;
+color: #E5E7EB;
+
+}
+
+.button2{
+    text-align: end;
+    position: relative;
+    top: -80px;
+    right: 250px;
+    
+}
+
+.footer{
+    background-color: #1f2937;
+
+    height: 100px;
+    color: #E5E7EB;
+    text-align: center;
+
+}
+
+#copy{
+
+      padding: 40px;
+      
+}
+
+.header-link{
+    color:white;
+}
+
+
+
+
+
